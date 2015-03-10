@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Cheerazar/git-basics/issues"
   },
-  "homepage": "https://github.com/Cheerazar/git-basics"
+  "homepage": "https://github.com/Cheerazar/git-basics",
+  "dependencies": {
+    "react": "^0.12.2"
+  },
+  "devDependencies": {
+    "webpack": "^1.7.2"
+  }
 }
