@@ -1,0 +1,19 @@
+{
+  "name": "git-basics",
+  "version": "1.0.0",
+  "description": "Git basics repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cheerazar/git-basics.git"
+  },
+  "author": "Gunnari Auvinen <gauvinen@gmail.com> (http://www.gunnariauvinen.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cheerazar/git-basics/issues"
+  },
+  "homepage": "https://github.com/Cheerazar/git-basics"
+}
